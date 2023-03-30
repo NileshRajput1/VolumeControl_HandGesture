@@ -2,11 +2,10 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>VolumeControl_HandGesture</title>
   </head>
   <body>
     <h1>VolumeControl_HandGesture</h1>
-    <p>This is a project that uses hand gestures to control the volume of your computer. The code uses computer vision to detect hand gestures and translate them into volume control commands.</p>
+    <p>Project that uses hand gestures to control the volume of your computer. The code uses computer vision to detect hand gestures and translate them into volume control commands.</p>
     <h2>Installation</h2>
     <p>To run this project, you will need to have Python 3 installed on your computer, along with the following libraries:</p>
     <ul>

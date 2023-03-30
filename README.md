@@ -1,4 +1,3 @@
-# VolumeControl_HandGesture
 <!DOCTYPE html>
 <html>
   <head>
